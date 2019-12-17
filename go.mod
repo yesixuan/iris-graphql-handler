@@ -1,4 +1,4 @@
-module iris-graphql-handler
+module github.com/yesixuan/iris-graphql-handler/vicGraphql
 
 go 1.13
 
